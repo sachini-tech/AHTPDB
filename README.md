@@ -119,24 +119,13 @@ Structures were predicted using:
 ## Contact & Authors
 
 **Prof. Gajendra P. S. Raghava**
-raghava@imtech.res.in
-http://www.imtech.res.in/raghava/
-
-Developed at **Bioinformatics Centre, CSIR-Institute of Microbial Technology**, Chandigarh, India
+Email - raghava@iiitd.ac.in
+IIIT Delhi
 
 
 ## License
 
 This database is distributed under the
 Creative Commons Attribution Non-Commercial License (CC BY-NC 4.0)
-
-
-## Acknowledgements
-
-Supported by:
-
-* Council of Scientific and Industrial Research (CSIR) — Open Source Drug Discovery and GENESIS BSC0121
-* Department of Biotechnology (DBT) — BTIS-NET
-* Government of India
 
 We acknowledge all researchers whose published work contributed to this dataset.
