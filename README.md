@@ -4,6 +4,8 @@ Welcome to the official repository for AHTPDB, a comprehensive and manually cura
 
 Web Server: http://crdd.osdd.net/raghava/ahtpdb/
 
+ZENODO : https://doi.org/10.5281/zenodo.20065627
+
 ## Citation
 
 Kumar, R., Chaudhary, K., Sharma, M., Nagpal, G., Chauhan, J. S., Singh, S., Gautam, A., & Raghava, G. P. S. (2015).
